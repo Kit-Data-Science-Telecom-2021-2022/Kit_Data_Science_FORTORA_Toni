@@ -3,4 +3,4 @@
 1st session : Exerice Google Python
 * list1
 * string1
-* wordcount
+* wordcount.
